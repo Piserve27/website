@@ -1,0 +1,44 @@
+
+.App-header {
+    background-color: #d8d4d9;
+    min-height: 5vh;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  .head-name{
+    text-align: left;
+    text-indent: 2.5%;
+    color: #a3624d;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+  }
+  
+  .App-logo{
+    width: 35px;
+    height: 35px;
+  }
+  .menu{
+    list-style: none;
+    display: flex;
+    margin-right: 20px;
+    margin-left: auto;
+    margin-top: -60px;
+    margin-bottom: 40px;
+  }
+  .menu li{
+    margin-right: 20px;
+    margin-bottom: 5 px;
+  }
+  
+  a:link{
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
